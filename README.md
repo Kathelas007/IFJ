@@ -1,2 +1,2 @@
-# IFJ
-Formal Languages and Compilers
+# IFJ - Formal Languages and Compilers
+Proj - Python compiler
