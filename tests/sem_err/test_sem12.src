@@ -1,0 +1,7 @@
+#undef function
+def f(a):
+  g()
+  h()
+
+def h():
+  return

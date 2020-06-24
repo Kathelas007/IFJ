@@ -1,0 +1,4 @@
+#build in function wrong type
+a = 'ifj'
+b = len(a)
+substr(b,a,2)

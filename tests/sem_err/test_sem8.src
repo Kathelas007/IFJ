@@ -1,0 +1,3 @@
+#function in function
+def f(a,b,c):
+  g(f())

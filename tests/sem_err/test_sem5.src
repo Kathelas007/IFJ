@@ -1,0 +1,6 @@
+#wrong number of params
+def f(a,b):
+  a = b + 5
+  return a
+
+f(2)

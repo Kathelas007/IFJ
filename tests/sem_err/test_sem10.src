@@ -1,0 +1,6 @@
+#if doesnt have any statement
+if 8 == 8:
+          
+else:
+  a = 'ahoj'
+

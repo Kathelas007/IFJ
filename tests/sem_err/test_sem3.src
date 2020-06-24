@@ -1,0 +1,4 @@
+#function has the same name as var
+def f(a,b,c):
+  return a + b + c
+f = 25

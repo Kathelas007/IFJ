@@ -1,0 +1,7 @@
+#fc not defined
+
+if 8 > 5:
+  f = fc
+  a + b
+else:
+  pass

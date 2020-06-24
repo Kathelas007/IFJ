@@ -1,0 +1,5 @@
+#redefinition not allowed
+def f():
+  a = 25
+def f(a):
+  return a

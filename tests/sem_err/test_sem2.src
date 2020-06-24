@@ -1,0 +1,4 @@
+#var has the same name as function
+f = 50
+def f():
+pass

@@ -1,0 +1,2 @@
+#return outside of function
+return 5 + 5
